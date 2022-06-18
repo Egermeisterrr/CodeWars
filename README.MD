@@ -11,9 +11,11 @@
   * [Find the missing letter](https://github.com/Egermeisterrr/CodeWars/tree/main/Find%20the%20missing%20letter)
 * 5kuy
   * [Fibo akin](https://github.com/Egermeisterrr/CodeWars/tree/main/Fibo%20akin)
+  * [Gap in Primes](https://github.com/Egermeisterrr/CodeWars/tree/main/Gap%20in%20Primes)
   * [Integers: Recreation One](https://github.com/Egermeisterrr/CodeWars/tree/main/Integers:%20Recreation%20One)
   * [Perimeter of squares in a rectangle](https://github.com/Egermeisterrr/CodeWars/tree/main/Perimeter%20of%20squares%20in%20a%20rectangle)
   * [Primes in numbers](https://github.com/Egermeisterrr/CodeWars/tree/main/Primes%20in%20numbers)
+  * [int32 to IPv4](https://github.com/Egermeisterrr/CodeWars/tree/main/int32%20to%20IPv4)
 * 4kuy
   * [Human readable duration format](https://github.com/Egermeisterrr/CodeWars/tree/main/Human%20readable%20duration%20format)
   * [Longest Common Subsequence (Performance version)](https://github.com/Egermeisterrr/CodeWars/tree/main/Longest%20Common%20Subsequence%20(Performance%20version))
